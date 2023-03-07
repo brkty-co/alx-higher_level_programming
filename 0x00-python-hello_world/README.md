@@ -1,1 +1,1 @@
-repo for holding basic pyton exersises
+repo for holding basic python exersises
